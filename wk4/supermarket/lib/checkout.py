@@ -15,7 +15,7 @@ class Checkout:
             if item in self.items:
                 self.items[item] += 1
             else:
-                self.items[item] = 1
+                self.items[item] = 1 
 
     def addItemPrice(self, item, price):
         self.prices[item] = price  
