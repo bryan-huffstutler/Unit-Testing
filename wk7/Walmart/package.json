@@ -1,0 +1,16 @@
+{
+  "name": "Walmart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "supermarket.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
